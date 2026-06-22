@@ -40,10 +40,12 @@ given your dataset stats, which technique should you actually use?
 ## Tournament Results
 
 *(Results populate after running the tournament)*
+CHECK OUTPUTS FOLDER
 
 ## The Selection Flowchart
 
 *(Flowchart image will be added after project completion)*
+CHECK OUTPUTS FOLDER 
 
 ## Live Demo
 
