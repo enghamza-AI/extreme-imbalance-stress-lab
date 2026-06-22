@@ -4,7 +4,7 @@
 
 [![HuggingFace Spaces](https://img.shields.io/badge/🤗%20HuggingFace-Spaces-blue)](https://huggingface.co/spaces/enghamza-AI/flux)
 [![Python](https://img.shields.io/badge/Python-3.10+-green)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![License: apache](https://img.shields.io/badge/License-Apache-yellow)](LICENSE)
 
 ## What Is This?
 
